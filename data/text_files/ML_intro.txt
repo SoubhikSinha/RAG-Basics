@@ -1,0 +1,5 @@
+Machine Learning Introduction
+
+Machine Learning (ML) is a branch of Artificial Intelligence that enables systems to automatically learn from data and improve performance without being explicitly programmed. Instead of following fixed rules, ML algorithms identify patterns, build models, and make predictions or decisions based on input data.
+
+It is widely used in areas such as image and speech recognition, natural language processing, recommendation systems, healthcare, and finance. Common approaches include supervised learning, unsupervised learning, and reinforcement learning. With the growth of big data and advanced computing power, ML has become a core technology driving innovations in AI and automation.
