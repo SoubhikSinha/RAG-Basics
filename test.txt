@@ -1,0 +1,1100 @@
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
+Attention Is All You Need (Vaswani et al., 2017) revolutionized the field of Natural Language Processing by 
+proposing the Transformer architecture. The key insight was the use of self-attention mechanisms to replace recurrent 
+and convolutional operations, thereby allowing parallelization and better handling of long-range dependencies.
+
+The Transformer model consists of an encoder-decoder structure with multi-head self-attention, position-wise feedforward 
+networks, residual connections, and positional encodings. The self-attention mechanism computes attention scores using 
+the scaled dot-product between queries, keys, and values, enabling the model to weigh contextual relevance dynamically.
+
+Following this, large-scale pretrained models based on the Transformer architecture such as GPT (Generative Pretrained 
+Transformers) emerged. GPT models (Radford et al., 2018–2024) use a decoder-only Transformer architecture with masked 
+self-attention to perform autoregressive language modeling. Pretraining on massive corpora allows GPT models to capture 
+linguistic, semantic, and contextual patterns, which can then be fine-tuned or prompted for downstream tasks.
+
+The scaling laws of Transformers demonstrate that model performance continues to improve predictably with more 
+parameters, data, and compute. GPT-3 (175B parameters) showed unprecedented few-shot learning capabilities, while GPT-4 
+and beyond improved reasoning, factual accuracy, and multimodal integration. Key techniques such as Reinforcement Learning 
+from Human Feedback (RLHF), retrieval-augmented generation (RAG), and instruction tuning further enhanced controllability 
+and user alignment.
+
+Transformers are now the foundation for state-of-the-art models in NLP, vision (ViT), speech, and multimodal AI. 
+Their flexibility, scalability, and representational power make them the backbone of modern AI systems.
+
