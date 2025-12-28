@@ -11,3 +11,7 @@ chromadb
 langchain-groq
 python_dotenv
 typesense
+langchain_text_splitters
+langchain_openai
+langgraph
+ipywidgets
