@@ -18,7 +18,3 @@ In addition to notebooks, the repository contains:
 <br>
 
 Together, these assets form a self-contained RAG experimentation ecosystem, allowing users to explore ingestion of heterogeneous data sources, experiment with multiple vector stores and retrieval strategies, and build both traditional and agentic end-to-end RAG pipelines directly from the notebooks.
-<br>
-
-Acknowledgement:
-Special thanks to [Krish Naik](https://github.com/krishnaik06) for inspiration and guidance on foundational AI and Generative AI practices.
